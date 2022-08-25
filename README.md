@@ -1,5 +1,8 @@
 # Enum type for you GO project
 
+## Install
+`go get github.com/ElioenaiFerrari/enum`
+
 ## Examples
 
 ```go
